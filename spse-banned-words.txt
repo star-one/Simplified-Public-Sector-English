@@ -1,0 +1,538 @@
+# Simplified Public Sector English (SPSE) — Banned Words
+# Inflated, bureaucratic, and jargon terms to avoid, merged with the UK
+# Government Digital Service (GDS/GOV.UK) 'words to avoid' and metaphor lists.
+# Always replace these with a plain alternative, even where the word might
+# otherwise look like ordinary vocabulary.
+# One entry per line.
+
+absence of
+abundance
+accede to
+accelerate
+accentuate
+accommodation
+accompanying
+accomplish
+according to our records
+accordingly
+acknowledge
+acquaint yourself with
+acquiesce
+acquire
+additional
+adjacent
+adjustment
+admissible
+advance
+advantageous
+advise
+affix
+afford an opportunity
+afforded
+aforesaid
+agencies
+agenda
+aggregate
+aligned
+alleviate
+allocate
+along the lines of
+alternative
+alternatively
+ambassador
+ameliorate
+amendment
+anticipate
+apparent
+applicant
+application
+appreciable
+apprise
+appropriate
+appropriate to
+approximately
+as a consequence of
+as of the date of
+as regards
+ascertain
+assemble
+assistance
+at an early date
+at its discretion
+at the moment
+at the present time
+attempt
+attend
+attributable to
+authorise
+authority
+axiomatic
+beacon
+belated
+beneficial
+best practice
+bestow
+bottom-up
+breach
+by means of
+caas
+calculate
+can do culture
+capacity
+cascading
+cautiously welcome
+cease
+champion
+circumvent
+citizen empowerment
+clarification
+collaborate
+combat
+combine
+combined
+commence
+commit
+communicate
+community engagement
+competent
+compile
+complete
+completion
+comply with
+component
+comprises
+compulsory
+conceal
+concerning
+conclusion
+concur
+condition
+conditionality
+consensual
+consequently
+considerable
+constitutes
+construe
+consult
+consumption
+contemplate
+contestability
+contrary to
+core message
+core value
+correct
+correspond
+costs the sum of
+coterminosity
+coterminous
+counter
+courteous
+cross-cutting
+cumulative
+currently
+customary
+customer
+deduct
+deem to be
+defer
+deficiency
+delete
+deliver
+democratic legitimacy
+democratic mandate
+demonstrate
+denote
+depict
+deploy
+designate
+desire
+despatch or dispatch
+despite the fact that
+determine
+detrimental
+dialogue
+difficulties
+diminish
+disburse
+discharge
+disclose
+disconnect
+discontinue
+discrete
+discuss
+disincentivise
+disseminate
+documentation
+domiciled in
+dominant
+drive
+drive out
+due to the fact that
+duration
+during which time
+dwelling
+early win
+economical
+eligible
+elucidate
+emphasise
+empower
+empowerment
+enable
+enclosed
+encounter
+endeavour
+engagement
+engaging users
+enhance
+enquire
+enquiry
+ensure
+entitlement
+envisage
+equivalent
+erroneous
+establish
+evaluate
+evidence base
+evince
+ex officio
+exceptionally
+excessive
+exclude
+excluding
+exclusively
+exempt from
+expedite
+expeditiously
+expenditure
+expire
+extant
+external challenge
+extremity
+fabricate
+facilitate
+factor
+failure to
+fast-track
+finalise
+flexibilities and freedoms
+focus
+following
+footway
+for the duration of
+for the purpose of
+for the reason that
+formulate
+forthwith
+forward
+foster
+framework
+frequently
+fulcrum
+funding streams
+furnish
+further to
+furthermore
+generate
+give consideration to
+going forward
+good practice
+governance
+grant
+guidelines
+henceforth
+hereby
+herein
+hereinafter
+hereof
+hereto
+heretofore
+hereunder
+herewith
+highway
+hitherto
+hold in abeyance
+holistic
+hope and trust
+hub
+if and when
+illustrate
+immediately
+impact
+implement
+imply
+improvement levers
+in a number of cases
+in accordance with
+in addition
+in advance
+in case of
+in conjunction with
+in connection with
+in consequence
+in excess of
+in lieu of
+in order that
+in order to
+in receipt of
+in relation to
+in respect of
+in the absence of
+in the course of
+in the event
+in the majority of instances
+in the near future
+in the neighbourhood of
+in view of the fact that
+inappropriate
+incentivise
+incentivising
+inception
+income streams
+incorporating
+incur
+indicate
+inform
+initially
+initiate
+initiative
+insert
+instances
+intend to
+intimate
+irrespective
+is of the opinion
+issue
+it is known that
+jeopardise
+joined up
+joint working
+key
+laas
+land
+large number of
+level playing field
+leverage
+liaise
+localities
+locality
+locate
+maas
+magnitude
+mandatory
+manner
+manufacture
+marginal
+material
+materialise
+may in the future
+meaningful consultation
+meaningful dialogue
+menu of options
+merchandise
+mislay
+modification
+moreover
+moving forward
+multi-agency
+multidisciplinary
+negligible
+nevertheless
+notify
+notwithstanding
+numerous
+objective
+obligatory
+obtain
+occasioned by
+on behalf of
+on numerous occasions
+on request
+on the grounds that
+on the occasion that
+one-stop shop
+operate
+optimum
+option
+ordinarily
+otherwise
+outcomes
+output
+outstanding
+overarching
+owing to
+partially
+participate
+participatory
+particulars
+partnerships
+pathfinder
+peer challenge
+per annum
+perform
+performance network
+permissible
+permit
+personnel
+persons
+peruse
+place
+place shaping
+pledge
+portal
+possess
+possessions
+practically
+predictors of beaconicity
+predominant
+prescribe
+preserve
+preventative services
+previous
+principal
+prior to
+priority
+proceed
+process driven
+procure
+profusion of
+progress
+prohibit
+projected
+prolonged
+promote
+promptly
+promulgate
+proportion
+provide
+provided that
+provisions
+proximity
+purchase
+pursuant to
+quick hit
+quick win
+reconsider
+reduce
+reduction
+referred to as
+refers to
+regard to
+regarding
+regulation
+reimburse
+reiterate
+relating to
+remain
+remainder
+remittance
+remuneration
+render
+report
+represents
+request
+require
+requirements
+reside
+residence
+resource allocation
+restriction
+retain
+revenue streams
+review
+revised
+ring fencing
+risk based
+robust
+scaled-back
+scoping
+scrutinise
+seedbed
+select
+service users
+settle
+shared priority
+signpost
+similarly
+single point of contact
+slim down
+slippage
+social contracts
+solely
+soundness
+specified
+spending priorities
+stakeholder
+state
+statutory
+step change
+strategic
+streamline
+streamlined
+strengthening
+subject to
+submit
+subsequent
+subsequently
+subsidiarity
+substantial
+substantially
+sufficient
+supplement
+supplementary
+supply
+sustainable
+symposium
+synergies
+tackle
+terminate
+that being the case
+the question as to whether
+thereafter
+thereby
+therein
+thereof
+thereto
+third sector
+thus
+to date
+to the extent that
+top-down
+transfer
+transform
+transformation
+transmit
+transparency
+ultimately
+unavailability
+undernoted
+undersigned
+undertake
+uniform
+unilateral
+unoccupied
+until such time
+utilisation
+utilise
+value-added
+variation
+virtually
+vision
+visualise
+ways and means
+we have pleasure in
+wellbeing
+whatsoever
+whensoever
+whereas
+whether or not
+with a view to
+with effect from
+with reference to
+with regard to
+with respect to
+with the minimum of delay
+you are requested
+your attention is drawn to
+zone
