@@ -159,7 +159,7 @@ been
 beer
 beeswax
 before
-behavior
+behaviour
 behind
 belief
 bell
@@ -343,7 +343,7 @@ collection
 college
 collision
 colony
-color
+colour
 column
 comb
 combination
@@ -802,7 +802,7 @@ handwriting
 hanger
 hanging
 happy
-harbor
+harbour
 hard
 harmony
 has
