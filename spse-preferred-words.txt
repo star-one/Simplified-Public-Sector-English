@@ -755,8 +755,8 @@ gold
 goldfish
 gone
 good
-good-morning
-goodlooking
+good morning
+good-looking
 goodnight
 got
 government
@@ -867,7 +867,7 @@ housekeeper
 how
 however
 human
-humor
+humour
 hundred
 hunt
 hurry
