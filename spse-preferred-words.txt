@@ -1179,7 +1179,7 @@ neck
 need
 needle
 neglect
-neighbor
+neighbour
 nerve
 nest
 net
@@ -1233,7 +1233,7 @@ on
 once
 oncoming
 one
-one ,only
+one-and-only
 oneself
 onlooker
 onto
@@ -1401,7 +1401,7 @@ post
 postman
 postmark
 postmaster
-postoffice
+post office
 pot
 potash
 potato
@@ -1972,13 +1972,13 @@ uproot
 uptake
 us
 use
-used (to)
+used to
 valency
 valley
 value
 valve
 vanilla
-vapor
+vapour
 variable
 vascular
 vegetable
